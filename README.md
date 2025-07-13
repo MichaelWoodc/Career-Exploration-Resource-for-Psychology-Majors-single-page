@@ -1,12 +1,20 @@
-# Career-Exploration-Resource-for-Psychology-Majors-single-page
-Career-Exploration-Resource-for-Psychology-Majors-single-page
-Page viewable at:
-https://michaelwoodc.github.io/Career-Exploration-Resource-for-Psychology-Majors-single-page/
-You can (download the .json file from: https://michaelwoodc.github.io/Career-Exploration-Resource-for-Psychology-Majors-single-page/jobs.json) upload the .json file to:
+# Career Exploration Resource for Psychology Majors (Single Page)
 
-Remove a bad link or job:
-https://michaelwoodc.github.io/Career-Exploration-Resource-for-Psychology-Majors-single-page/entry_remover.html
+**Live Page:**  
+[https://michaelwoodc.github.io/Career-Exploration-Resource-for-Psychology-Majors-single-page/](https://michaelwoodc.github.io/Career-Exploration-Resource-for-Psychology-Majors-single-page/)
 
-Add a new job:
-https://michaelwoodc.github.io/Career-Exploration-Resource-for-Psychology-Majors-single-page/entry_adder.html
-	
+---
+
+## JSON File
+
+You can download the `.json` file here:  
+[Download jobs.json](https://michaelwoodc.github.io/Career-Exploration-Resource-for-Psychology-Majors-single-page/jobs.json)
+
+You can upload the `.json` file to the following tools:
+
+- **Remove a bad link or job:**  
+  [entry_remover.html](https://michaelwoodc.github.io/Career-Exploration-Resource-for-Psychology-Majors-single-page/entry_remover.html)
+
+- **Add a new job:**  
+  [entry_adder.html](https://michaelwoodc.github.io/Career-Exploration-Resource-for-Psychology-Majors-single-page/entry_adder.html)  
+  *(This page does not require uploading a `.json` file, as it will automatically fetch it from the site.)*
